@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weekly Planner</string>
+    <string name="login_prompt">Login</string>
+    <string name="password_prompt">Password</string>
+    <string name="login_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+
+    <string name="login_button">Login</string>
+    <string name="username_error">Bad Login! -- Try again!</string>
+    <string name="password_error">Bad Password! -- Try again!</string>
+</resources>
